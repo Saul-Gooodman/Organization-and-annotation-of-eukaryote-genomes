@@ -5,7 +5,7 @@
 
 ##  Project Overview
 
-This repository contains all scripts and analysis results generated for the “Organization and Annotation of Eukaryote Genomes (UE-SBL.30004)” course at the University of Bern.
+This repository contains all scripts and analysis results generated for the “Organization and Annotation of Eukaryote Genomes (SBL.30004)” course at the University of Bern.
 The workflow covers genome annotation, transposable element (TE) analysis, gene prediction and refinement, functional annotation, and comparative genomics using OrthoFinder and GENESPACE.
 
 ⸻

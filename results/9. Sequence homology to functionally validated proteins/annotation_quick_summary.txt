@@ -1,0 +1,39 @@
+==================================================
+Annotation Quick Summary Report
+2025-11-06T23:45:05+01:00
+==================================================
+
+[1] File statistics:
+  GFF3 lines: 418256
+  Protein records: 37701
+  Transcript records: 37701
+
+[2] Feature type counts (from GFF3):
+  CDS              165097
+  exon             154382
+  mRNA             37701
+  gene             30313
+  three_prime_UTR  15685
+  five_prime_UTR   15078
+
+[3] Top 20 scaffolds by mRNA count:
+  ptg000003l   3865
+  ptg000002l   3309
+  ptg000006l   3274
+  ptg000004l   3142
+  ptg000005l   2481
+  ptg000013l   1730
+  ptg000008l   1721
+  ptg000001l   1492
+  ptg000011l   1127
+  ptg000012l   619
+  ptg000018l   478
+  ptg000024l   438
+  ptg000037l   325
+  ptg000030l   111
+  ptg000106l   96
+  ptg000009l   89
+  ptg000205l   85
+  ptg000015l   84
+  ptg000139l   81
+  ptg000150l   81

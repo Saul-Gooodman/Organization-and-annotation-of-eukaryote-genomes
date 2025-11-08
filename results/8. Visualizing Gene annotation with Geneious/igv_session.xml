@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="/Users/v/Desktop/assembly.p_ctg.fa.mod.EDTA.intact.fa" locus="TE_00000294|ptg000006l:64458..67384#LTR/unknown:1142-1227" version="8">
+    <Resources>
+        <Resource path="/Users/v/Desktop/filtered.genes.renamed.gff3" type="gff3"/>
+    </Resources>
+    <Panel height="565" name="FeaturePanel" width="1483">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="true" visible="true"/>
+        <Track attributeKey="filtered.genes.renamed.gff3" clazz="org.broad.igv.track.FeatureTrack" fontSize="10" groupByStrand="false" id="/Users/v/Desktop/filtered.genes.renamed.gff3" name="filtered.genes.renamed.gff3" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.010416666666666666"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>

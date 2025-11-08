@@ -1,0 +1,49 @@
+MAKER merged outputs summary
+Timestamp: 2025-11-05T20:07:27+01:00
+Output prefix: assembly_p_ctg
+Datastore index: /data/users/yliu2/Organization_and_annotation/gene_annotation/assembly_p_ctg.maker.output/assembly_p_ctg_master_datastore_index.log
+
+Files:
+  assembly_p_ctg.all.maker.gff                  12303621 lines
+  assembly_p_ctg.all.maker.noseq.gff            9668402 lines
+  assembly_p_ctg.all.maker.transcripts.fasta    37704 records
+  assembly_p_ctg.all.maker.proteins.fasta       37704 records
+
+Approx. number of gene models (mRNA count): 37704
+
+Top 20 scaffolds by mRNA count:
+mRNA	Scaffold
+3866	ptg000003l
+3309	ptg000002l
+3274	ptg000006l
+3144	ptg000004l
+2481	ptg000005l
+1730	ptg000013l
+1721	ptg000008l
+1492	ptg000001l
+1127	ptg000011l
+619	ptg000012l
+478	ptg000018l
+438	ptg000024l
+325	ptg000037l
+111	ptg000030l
+96	ptg000106l
+89	ptg000009l
+85	ptg000205l
+84	ptg000015l
+81	ptg000150l
+81	ptg000139l
+
+Feature type breakdown (from merged GFF):
+Feature	Count
+match_part	5633196
+protein_match	2834904
+match	666028
+CDS	165103
+exon	154387
+expressed_sequence_match	112107
+mRNA	37704
+gene	30314
+three_prime_UTR	15685
+five_prime_UTR	15078
+contig	509

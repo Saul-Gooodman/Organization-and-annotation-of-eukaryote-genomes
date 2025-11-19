@@ -1,0 +1,6 @@
+ 165097 CDS
+ 154382 exon
+  37701 mRNA
+  30313 gene
+  15685 three_prime_UTR
+  15078 five_prime_UTR

@@ -1,0 +1,4 @@
+Category,Orthogroups_raw,Genes_raw_TAIR10,Genes_raw_Kas1,Orthogroups_filtered,Genes_filtered_TAIR10,Genes_filtered_Kas1
+Core,18846,23215,21996,18704,22285,20085
+TAIR10_unique,584,2089,0,0,0,0
+Kas1_unique,2611,0,5687,0,0,0
